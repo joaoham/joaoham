@@ -16,4 +16,4 @@ Python | LangChain | Agno | React Native | Docker
 - Study App (React Native)
 
 ## 📫 Contact
-LinkedIn: linkedin.com/in/seu-nome
+LinkedIn: linkedin.com/in/joão-henrique-mattar-0a7b70380/
